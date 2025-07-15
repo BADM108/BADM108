@@ -1,4 +1,4 @@
-## Hi, I'm blah blah blah
+## Hi, I'm a undergraduate at NIBM and I'm currently following the path of a full stack developer .
 > Undergrad @ NIBM | Turning ideas into working code
 
 ### My Skills
