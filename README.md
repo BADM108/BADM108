@@ -2,4 +2,4 @@
 > Undergrad @ NIBM | Turning ideas into working code
 
 ### My Skills
-[![Skills](https://skills.syvixor.com/api/icons?i=csharp,c,java,sql)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=csharp,c,java,sql,nodejs)](https://github.com/syvixor/skills-icons)
