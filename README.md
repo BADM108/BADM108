@@ -1,4 +1,4 @@
-## Hi, I'm a undergraduate at NIBM and I'm currently following the path of a full stack developer.
+## Hi, I'm a Full Stack Developer and Machine Learning enthusiast driven by an unwavering determination to improve. I build, deploy, and optimize systems through constant experimentation in my home lab.
 > Undergrad @ NIBM | Turning ideas into working code
 
 ### My Skills
